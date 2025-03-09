@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/User/CLionProjects/pppp/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/User/CLionProjects/pppp",
+	"dir-top-bld" : "C:/Users/User/CLionProjects/pppp/cmake-build-debug",
+	"dir-top-src" : "C:/Users/User/CLionProjects/pppp",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/User/CLionProjects/pppp/cmake-build-debug/CMakeFiles/pppp.dir"
+}
